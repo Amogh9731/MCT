@@ -1,1 +1,1 @@
-# Hosted link ====> https://amogh9731.github.io/MCT/index.html
+# Hosted link ====> https://mctapp.vercel.app/
